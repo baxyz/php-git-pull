@@ -3,3 +3,6 @@
 
 # Library backups
 libs/*.zip
+
+# PHP
+config.php
